@@ -1,0 +1,12 @@
+2021-10-15 15:36:20.181  INFO 12252 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 12252 (D:\STS WS\Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\Day6_EMPLOYEE)
+2021-10-15 15:36:20.182 DEBUG 12252 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 15:36:20.183  INFO 12252 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: dev
+2021-10-15 15:36:20.988  WARN 12252 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 15:36:21.177  INFO 12252 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 1.129 seconds (JVM running for 68.495)
+2021-10-15 15:36:21.182  INFO 12252 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 15:36:35.587  INFO 4268 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 4268 (D:\STS WS\Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\Day6_EMPLOYEE)
+2021-10-15 15:36:35.592 DEBUG 4268 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 15:36:35.594  INFO 4268 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: dev
+2021-10-15 15:36:40.271  WARN 4268 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 15:36:40.817  INFO 4268 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 5.858 seconds (JVM running for 7.087)
+2021-10-15 15:36:40.821  INFO 4268 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment

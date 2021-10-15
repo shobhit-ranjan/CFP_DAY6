@@ -1,0 +1,40 @@
+2021-10-15 15:44:58.580  INFO 8120 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 8120 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 15:44:58.582 DEBUG 8120 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 15:44:58.583  INFO 8120 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 15:44:59.529  WARN 8120 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 15:44:59.672  INFO 8120 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 1.233 seconds (JVM running for 161.748)
+2021-10-15 15:44:59.676  INFO 8120 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 15:45:06.708  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 1040 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 15:45:06.712 DEBUG 1040 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 15:45:06.712  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 15:45:11.390  WARN 1040 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 15:45:12.000  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 5.954 seconds (JVM running for 7.04)
+2021-10-15 15:45:12.006  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 16:00:17.617  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 1040 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 16:00:17.617 DEBUG 1040 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 16:00:17.618  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 16:00:18.760  WARN 1040 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 16:00:19.126  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 1.569 seconds (JVM running for 914.165)
+2021-10-15 16:00:19.133  INFO 1040 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 16:04:00.683  INFO 14312 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 14312 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 16:04:00.687 DEBUG 14312 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 16:04:00.687  INFO 14312 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 16:04:05.133  WARN 14312 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 16:04:05.749  INFO 14312 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 5.683 seconds (JVM running for 6.99)
+2021-10-15 16:04:05.755  INFO 14312 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 16:05:09.013  INFO 14312 --- [http-nio-8080-exec-2] c.e.demo.controller.EmployeeController   : Its Up And Running
+2021-10-15 16:21:38.126  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 1072 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 16:21:38.130 DEBUG 1072 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 16:21:38.130  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 16:21:42.925  WARN 1072 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 16:21:43.458  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 5.891 seconds (JVM running for 7.353)
+2021-10-15 16:21:43.465  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 16:21:51.280  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Starting EmpApplication using Java 16.0.2 on LAPTOP-02USD3DD with PID 1072 (D:\STS WS\CFP_Day6_EMPLOYEE\target\classes started by asus in D:\STS WS\CFP_Day6_EMPLOYEE)
+2021-10-15 16:21:51.281 DEBUG 1072 --- [restartedMain] com.example.demo.EmpApplication          : Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-15 16:21:51.282  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : The following profiles are active: DEV
+2021-10-15 16:21:52.180  WARN 1072 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-15 16:21:52.363  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Started EmpApplication in 1.191 seconds (JVM running for 16.257)
+2021-10-15 16:21:52.366  INFO 1072 --- [restartedMain] com.example.demo.EmpApplication          : Employee Application started! in DEV Environment
+2021-10-15 16:22:52.563  WARN 1072 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2021-10-15 16:22:57.700  INFO 1072 --- [http-nio-8080-exec-3] c.e.demo.controller.EmployeeController   : Its Up And Running
+2021-10-15 16:23:05.810  WARN 1072 --- [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Unable to find com.example.demo.entity.Employee with id 12; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Unable to find com.example.demo.entity.Employee with id 12 (through reference chain: com.example.demo.dto.ResponseDTO["data"]->com.example.demo.entity.Employee$HibernateProxy$Jv0TIIL5["name"])]
