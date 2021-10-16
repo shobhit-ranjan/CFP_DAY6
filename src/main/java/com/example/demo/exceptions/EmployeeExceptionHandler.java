@@ -21,7 +21,7 @@ public class EmployeeExceptionHandler {
 			MethodArgumentNotValidException exception) {
 		List<ObjectError> errorList = exception.getBindingResult().getAllErrors();
 		List<String> errorMessage = errorList.stream().map(o -> o.getDefaultMessage()).collect(Collectors.toList());
-		ResponseDTO responseDTO = new ResponseDTO("Exception while processing Rest request ", errorMessage);
+		ResponseDTO responseDTO = new ResponseDTO("Exception while processing", errorMessage);
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.BAD_REQUEST);
 	}
 
