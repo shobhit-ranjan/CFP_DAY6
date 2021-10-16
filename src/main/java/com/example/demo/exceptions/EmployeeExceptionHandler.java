@@ -27,7 +27,7 @@ public class EmployeeExceptionHandler {
 
 	@ExceptionHandler(CustomException.class)
 	public ResponseEntity<ResponseDTO> NotFoundException(CustomException exception) {
-		ResponseDTO responseDTO = new ResponseDTO("Exception while processing Rest request ", exception.getMessage());
+		ResponseDTO responseDTO = new ResponseDTO("Exception while processing Data", exception.getMessage());
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.BAD_REQUEST);
 	}
 }
